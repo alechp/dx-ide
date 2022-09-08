@@ -15,7 +15,7 @@ sudo apt-get install ninja-build gettext libtool libtool-bin autoconf automake c
 ```
 
 2. Clone
-> `git clone https://github.com/neovim/neovim`
+> `cd ~/Code && git clone https://github.com/neovim/neovim`
 
 3. Make neovim
 > `cd neovim && make CMAKE_BUILD_TYPE=RelWithDebInfo`
